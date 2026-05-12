@@ -1,3 +1,8 @@
+Parthiban Updated- 05122026
+--------------------
+
+
+
 User Story – Application Migration (High-Level Tasks)
 1. Discovery & Assessment
 
@@ -9,7 +14,6 @@ Acceptance Criteria
 
 All existing AWS resources and integrations are documented
 
-Application components, dependencies, and environments are identified
 
 Current CI/CD flow and deployment strategy are clearly understood
 
